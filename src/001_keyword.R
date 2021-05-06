@@ -23,7 +23,7 @@ tweet <- search_tweets(keyword,
   n = number_of_tweet,
   include_rts = take_retweet,
   lang = language,
-  retryonratelimit = F,
+  retryonratelimit = FALSE,
   token = token
 )
 
