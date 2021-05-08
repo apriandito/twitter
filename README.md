@@ -1,4 +1,5 @@
 # Kumpulan script untuk mengambil data di Twitter
-Akan ditambahkan bertahap
+
+_Akan ditambahkan secara bertahap_
 
 Belajar Analisis Media Sosial secara lengkap: https://technaut.id/kelas/sma-r/
