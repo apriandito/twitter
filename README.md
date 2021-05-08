@@ -2,4 +2,6 @@
 
 _(Akan ditambahkan secara bertahap)_
 
+<hr>
+
 __Belajar Analisis Media Sosial secara lengkap:__ https://technaut.id/kelas/sma-r/
